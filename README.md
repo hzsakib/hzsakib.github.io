@@ -1,6 +1,6 @@
-# Portfolio — Mohammod Sakib
+# Portfolio — Mohammad Sakib
 
-Professional portfolio website for web development and cryptocurrency-informed product work.
+Public site for cryptocurrency project work, product marketing, and digital products.
 
 **Live site (after Pages is enabled):** https://hzsakib.github.io
 
@@ -11,12 +11,10 @@ Professional portfolio website for web development and cryptocurrency-informed p
 3. Under **Source**, choose the `main` branch and `/ (root)`.
 4. Save. The site will be available at `https://hzsakib.github.io`.
 
-## Stack
-
-- HTML5
-- CSS3
-- GitHub Pages
-
 ## Purpose
 
-This repository is the public home for websites and professional presentation. New project pages can be added as separate HTML files or linked repositories.
+Professional presence for:
+
+- Cryptocurrency project building and token listing work
+- Project management and product marketing
+- Digital products and websites

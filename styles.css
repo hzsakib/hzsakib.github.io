@@ -50,6 +50,14 @@ main { padding: 0 8vw 4rem; }
   border-bottom: 1px solid var(--line);
 }
 
+.avatar {
+  display: block;
+  width: 140px;
+  height: 140px;
+  margin: 0 0 1.5rem;
+  border-radius: 50%;
+}
+
 .eyebrow {
   color: var(--accent);
   letter-spacing: 0.06em;
